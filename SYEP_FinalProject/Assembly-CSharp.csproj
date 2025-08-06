@@ -79,6 +79,7 @@
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\9- Custom collision filtering\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\2- Basic Movement and Gravity\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Core\ReadOnlyAttribute.cs" />
+    <Compile Include="Assets\PSXShaderKit\Scripts\Health bar.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\1- Player Camera Character Setup\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Core\IMoverController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\1- Player Camera Character Setup\Scripts\MyPlayer.cs" />
@@ -87,6 +88,7 @@
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\2- Basic Movement and Gravity\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\6- Crouching\Scripts\MyCharacterController.cs" />
     <Compile Include="Assets\KinematicCharacterController\Examples\Scripts\PrefabLauncher.cs" />
+    <Compile Include="Assets\KinematicCharacterController\Core\Attack.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\3- Jumping\Scripts\a- Simple Jumping\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\16- FramePerfect Rotation\Scripts\MyPlayer.cs" />
     <Compile Include="Assets\KinematicCharacterController\Walkthrough\15- Root motion example\Scripts\MyPlayer.cs" />
