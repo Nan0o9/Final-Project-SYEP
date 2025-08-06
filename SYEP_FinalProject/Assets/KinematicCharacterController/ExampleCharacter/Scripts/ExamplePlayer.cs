@@ -16,7 +16,7 @@ namespace KinematicCharacterController.Examples
         private const string MouseScrollInput = "Mouse ScrollWheel";
         private const string HorizontalInput = "Horizontal";
         private const string VerticalInput = "Vertical";
-
+        public Animator animator;
         private void Start()
         {
             Cursor.lockState = CursorLockMode.Locked;
@@ -92,8 +92,23 @@ namespace KinematicCharacterController.Examples
             characterInputs.CrouchDown = Input.GetKeyDown(KeyCode.C);
             characterInputs.CrouchUp = Input.GetKeyUp(KeyCode.C);
 
+           
+
             // Apply inputs to character
             Character.SetInputs(ref characterInputs);
+
+            if (characterInputs.MoveAxisForward == 0F && characterInputs.MoveAxisRight == 0f)
+            {
+                animator.SetInteger("SPEED", 0);
+            }
+            else
+            {
+                animator.SetInteger("SPEED", 1);
+            }
+            
+
+
         }
+
     }
 }

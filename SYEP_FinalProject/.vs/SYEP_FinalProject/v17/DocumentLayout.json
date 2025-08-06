@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|c:\\users\\dy-bx07\\downloads\\final-project-syep\\syep_finalproject\\assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\exampleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|solutionrelative:assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\exampleplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|c:\\users\\dy-bx07\\downloads\\final-project-syep\\syep_finalproject\\assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\examplecharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|solutionrelative:assets\\kinematiccharactercontroller\\examplecharacter\\scripts\\examplecharactercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|c:\\users\\dy-bx07\\downloads\\final-project-syep\\syep_finalproject\\assets\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E894B6AB-5BEB-1590-74D6-4D0546A5AEF7}|Assembly-CSharp.csproj|solutionrelative:assets\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamplePlayer.cs",
+              "DocumentMoniker": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "RelativeDocumentMoniker": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "ToolTip": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "RelativeToolTip": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExamplePlayer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwGsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:51:27.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExampleCharacterController.cs",
+              "DocumentMoniker": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExampleCharacterController.cs",
+              "RelativeDocumentMoniker": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExampleCharacterController.cs",
+              "ToolTip": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExampleCharacterController.cs",
+              "RelativeToolTip": "Assets\\KinematicCharacterController\\ExampleCharacter\\Scripts\\ExampleCharacterController.cs",
+              "ViewState": "AgIAADABAAAAAAAAAAAiwC4BAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:47:19.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimationController.cs",
+              "ToolTip": "C:\\Users\\DY-BX07\\Downloads\\Final-Project-SYEP\\SYEP_FinalProject\\Assets\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\AnimationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T17:46:58.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

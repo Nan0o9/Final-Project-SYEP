@@ -25,6 +25,8 @@ namespace KinematicCharacterController.Examples
         public bool JumpDown;
         public bool CrouchDown;
         public bool CrouchUp;
+        public bool Sprint;
+        public bool Walking;
     }
 
     public struct AICharacterInputs
@@ -88,6 +90,7 @@ namespace KinematicCharacterController.Examples
 
         private Vector3 lastInnerNormal = Vector3.zero;
         private Vector3 lastOuterNormal = Vector3.zero;
+
 
         private void Awake()
         {
