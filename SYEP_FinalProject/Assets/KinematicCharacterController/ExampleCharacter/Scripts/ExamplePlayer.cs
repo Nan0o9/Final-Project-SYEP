@@ -36,6 +36,11 @@ namespace KinematicCharacterController.Examples
                 Cursor.lockState = CursorLockMode.Locked;
             }
 
+            if(Input.GetButtonDown("Attack"))
+            {
+                animator.SetTrigger("isAttacking");
+            }
+
             HandleCharacterInput();
         }
 
@@ -88,9 +93,9 @@ namespace KinematicCharacterController.Examples
             characterInputs.MoveAxisForward = Input.GetAxisRaw(VerticalInput);
             characterInputs.MoveAxisRight = Input.GetAxisRaw(HorizontalInput);
             characterInputs.CameraRotation = CharacterCamera.Transform.rotation;
-            characterInputs.JumpDown = Input.GetKeyDown(KeyCode.Space);
-            characterInputs.CrouchDown = Input.GetKeyDown(KeyCode.C);
-            characterInputs.CrouchUp = Input.GetKeyUp(KeyCode.C);
+            characterInputs.JumpDown = Input.GetButtonDown("Jump");
+            characterInputs.CrouchDown = Input.GetButtonDown("Crouch");
+            characterInputs.CrouchUp = Input.GetButtonUp("Crouch");
 
            
 
